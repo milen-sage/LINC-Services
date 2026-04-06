@@ -1,10 +1,4 @@
-Synapse-Repository-Services
+LINC Toolsuite backend services
 ===========================
 
-The Synapse Repository Services project is the home of the JSON REST web services for Synapse.
-
-General information for developers may be found here:
-https://sagebionetworks.jira.com/wiki/display/PLFM/Home
-
-Information on how github branches are used by Synapse may be found here:
-https://sagebionetworks.jira.com/wiki/display/PLFM/Staging+Deployment%2C+Step+by+Step
+The LINC toolsuite backend services is the home of the JSON REST web services for LINC components, including Curator co-pilot.
